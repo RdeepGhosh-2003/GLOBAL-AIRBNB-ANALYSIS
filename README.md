@@ -26,31 +26,31 @@ Transforming **280K+ Airbnb listings** and **1M+ customer reviews** into actiona
 
 ### Executive Overview
 
-![Overview](images/OVERVIEW.jpg)
+<img width="1529" height="860" alt="OVERVIEW" src="https://github.com/user-attachments/assets/91a31db1-60f5-4da4-8847-dd7060a43e05" />
 
 ---
 
 ### Pricing Intelligence
 
-![Pricing Intelligence](images/PRICING%20INTELLIGENCE.jpg)
+<img width="1530" height="859" alt="PRICING INTELLIGENCE" src="https://github.com/user-attachments/assets/940c298c-4cf9-44ab-93a0-776d995eefbc" />
 
 ---
 
 ### Host Performance Analytics
 
-![Host Performance](images/HOST%20PERFORMANCE.jpg)
+<img width="1532" height="858" alt="HOST PERFORMANCE" src="https://github.com/user-attachments/assets/13efeef7-678b-49c7-b985-608b6f5ae6f4" />
 
 ---
 
 ### Customer Experience Analytics
 
-![Customer Experience](images/CUSTOMER%20EXPERIENCE.jpg)
+<img width="1531" height="859" alt="CUSTOMER EXPERIENCE" src="https://github.com/user-attachments/assets/e26d6077-f005-43bc-a328-518085ac8274" />
 
 ---
 
 ### Geographic Intelligence
 
-![Geographic Intelligence](images/GEOGRAPHIC%20INTELLIGENCE.jpg)
+<img width="1531" height="859" alt="GEOGRAPHIC INTELLIGENCE" src="https://github.com/user-attachments/assets/ca69754d-392a-495d-9fcf-a6964d79d7fe" />
 
 ---
 
